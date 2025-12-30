@@ -18,7 +18,7 @@ This document describes the step-by-step setup of an AWS VPC environment using a
 
 ### 1. Create a VPC
 - Create a VPC named **`MyVPC`**
-- Set CIDR block to:
+- Set CIDR block to: `10.0.0.0/16`
 
 ---
 
